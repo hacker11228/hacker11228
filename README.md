@@ -5,4 +5,6 @@ pkg install git
 
 git clone https://github.com/hacker11228/hacker11228
 
-python3 risane_hack.py
+cd hacker11228
+
+python3 hackers.py
